@@ -1,0 +1,8 @@
+cd india-eod-reco-nse-bse-kmbl
+
+git init
+git add
+git commit -m "Intial KMBl research model deployment"
+git branch -M main
+git remote add origin https://girhub.com/indiataxsavingstips/kmbl-eod-research.git
+git push -u origin main
